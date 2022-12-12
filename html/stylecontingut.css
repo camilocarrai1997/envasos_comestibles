@@ -1,0 +1,43 @@
+#secondHeader{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(219, 219, 219);
+    display: flex;
+    height: 70px;
+    line-height: 70px;
+    justify-content: space-between;
+}
+
+body{
+    margin: 0;
+}
+
+#goHome{
+    border: none;
+    background-color: transparent;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+a:visited{
+    color: black;
+}
+
+#iconos i{
+    padding: 10px;
+    font-size: 45px;
+}
+
+#paypalButton{
+    color: rgb(51, 90, 219);
+}
+#carMarket{
+    color: rgb(80, 148, 60);
+}
+#supportButton{
+    color: rgb(94, 194, 194);
+}
